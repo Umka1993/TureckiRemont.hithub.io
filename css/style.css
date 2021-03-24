@@ -1012,7 +1012,7 @@ img {
 .design {
   background-color: #131313;
   color: #fff;
-  padding-bottom: 30rem;
+  padding-bottom: 8rem;
 }
 
 .design__section-title {
@@ -1110,10 +1110,10 @@ img {
   max-width: 63.07rem;
   margin: auto;
   padding: 2.5rem;
-  margin-top: -20rem;
   background: #131313 url("../img/bg-lines.svg") no-repeat;
   margin-bottom: 3.714rem;
   background-size: cover;
+  border: 1px solid #E3B873;
 }
 
 .footer__title {
@@ -1235,9 +1235,6 @@ img {
 iframe {
   min-height: 33.21rem;
   width: 95%;
-}
-
-iframe:last-child {
   display: none;
 }
 
