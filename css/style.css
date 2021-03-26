@@ -1635,7 +1635,7 @@ iframe {
             align-items: flex-start;
     -ms-flex-preferred-size: 100%;
         flex-basis: 100%;
-    margin-left: -2.5rem;
+    margin-left: -1.5rem;
   }
   .footer__wrap {
     display: -webkit-box;
@@ -1984,7 +1984,7 @@ iframe {
             align-items: flex-start;
     -ms-flex-preferred-size: 100%;
         flex-basis: 100%;
-    margin-left: -2.5rem;
+    margin-left: -1.5rem;
   }
   .footer__wrap {
     display: -webkit-box;
